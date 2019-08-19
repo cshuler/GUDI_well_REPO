@@ -8,9 +8,9 @@ Shuler, C. K., Dulai, H., DeWees, R., Kirs, M., Glenn, C. R., & El‐Kadi, A. I.
 &nbsp;
 
 <p align="center">
-  <img width="650" height="150" src=Docs/GUDI_W81.jpg >
+  <img width="850" height="190" src=Docs/GUDI_W81.jpg >
+Figure: GUDI well test showing processed turbidity profile (black line) and rainfall (blue bars). Turbidity peaks (red dots) that correlate with preceding heavy-rainfall events (blue dots) are shown, and grey shaded fields represent duration of peaks. 
 </p>
-fig
 
 ### Abstract 
 Wells designated as groundwater under the direct influence of surface water (GUDI) have caused an ongoing boil-water-advisory afflicting the island of Tutuila, American Samoa for almost a decade. Regulatory testing at these wells found turbidity and indicator bacteria spikes correlated with heavy rainfall events. However, the mechanism of this contamination has, until now, remained unknown. Surface water may reach wells through improperly sealed well casings, or through the aquifer matrix itself. In this study, three independent surface-water tracers, turbidity, indicator bacteria, and water isotopes were used to assess recharge timing and determine contamination mechanisms. Results from each method were reasonably consistent, revealing average GUDI well breakthrough times of 37 ± 21 hours for turbidity, 18 to 63 hours for bacteria, and 1 to 5 days for water isotopes. These times match well with estimated subsurface flow rates through highly-permeable aquifer materials. In contrast, where one well casing was found to be compromised, turbidity breakthrough was observed at 3 to 4 hours. These results support local management decisions, and show repairing or replacing wells will likely result in continued GUDI contamination. Additionally, differences in observed rainfall response for each tracer provide insight into the recharge dynamics and subsurface flow characteristics of this and other highly-conductive young-basaltic aquifers. 
