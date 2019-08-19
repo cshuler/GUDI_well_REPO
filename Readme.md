@@ -1,6 +1,5 @@
-# Data and Code Repository for: 
-### An Isotopic and Microbiological Multi-Tracer Approach to Assessing Recharge Mechanisms in Surface Water Affected Wells
-on Tutuila, American Samoa
+#### Data and Code Repository for: 
+### An Isotopic and Microbiological Multi-Tracer Approach to Assessing Recharge Mechanisms in Surface Water Affected Wells on Tutuila, American Samoa
 
 #### Citation: 
 Shuler, C. K., Dulai, H., DeWees, R., Kirs, M., Glenn, C. R., & El‐Kadi, A. I. (2019). Isotopes, Microbes, and Turbidity: A Multi‐Tracer Approach to Understanding Recharge Dynamics and Groundwater Contamination in a Basaltic Island Aquifer. Groundwater Monitoring & Remediation, 39(1), 20-35.
