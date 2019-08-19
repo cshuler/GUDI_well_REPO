@@ -9,7 +9,7 @@ Shuler, C. K., Dulai, H., DeWees, R., Kirs, M., Glenn, C. R., & El‐Kadi, A. I.
 
 <p align="center">
   <img width="850" height="190" src=Docs/GUDI_W81.jpg >
-Figure: GUDI well test showing processed turbidity profile (black line) and rainfall (blue bars). Turbidity peaks (red dots) that correlate with preceding heavy-rainfall events (blue dots) are shown, and grey shaded fields represent duration of peaks. 
+GUDI well test showing processed turbidity profile (black line) and rainfall (blue bars). Turbidity peaks (red dots) that correlate with preceding heavy-rainfall events (blue dots) are shown, and grey shaded fields represent duration of peaks. 
 </p>
 
 ### Abstract 
