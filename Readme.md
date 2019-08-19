@@ -10,8 +10,6 @@ Shuler, C. K., Dulai, H., DeWees, R., Kirs, M., Glenn, C. R., & El‐Kadi, A. I.
 <p align="center">
   <img width="650" height="150" src=Docs/GUDI_W81.jpg >
 </p>
-
-
 fig
 
 ### Abstract 
