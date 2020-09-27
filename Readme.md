@@ -1,4 +1,4 @@
-<img src="Docs/doi.jpg" width="200">
+<a href="https://doi.org/10.1111/gwmr.12299"><img src="Docs/doi.jpg" width="200"></a>
 
 
 
