@@ -1,4 +1,6 @@
-[![DOI](Docs/doi.jpg)](https://doi.org/10.1111/gwmr.12299)
+<img src="Docs/doi.jpg" width="200">
+
+
 
 #### Data and Code Repository for: 
 ### An Isotopic and Microbiological Multi-Tracer Approach to Assessing Recharge Mechanisms in Surface Water Affected Wells on Tutuila, American Samoa
